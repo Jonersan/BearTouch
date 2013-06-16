@@ -1,0 +1,4 @@
+BearTouch
+=========
+
+初めてのenchantjs
